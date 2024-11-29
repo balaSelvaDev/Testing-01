@@ -1,0 +1,19 @@
+
+VIDEO:: https://youtu.be/r9CMJZ4T__8?si=4hHapqOBoMXhn2B4
+DATE:: Nov-05-2024
+
+final class - avoid inheritance
+final method - avoid override
+final variable - 
+	final Dog dog = new Dog();
+	must be uppercase to variable(PI, PI_VALUE)
+	Build in method(MATH.PI)
+	
+doubt
+
+1). abstract method laa final keyword add pannalam ah
+2). dog extends animals(eat() method) , dog class laa eat() method override pannaittu 
+final keyword kudukalam ah - (CLEARED)
+ANSWER: parent class laa iruku method final kuduthaa, derived class laa override panna mudiyathu.
+derived class laa final method laa ah irunthaa, object vachu method ah call pannikelam
+3). 

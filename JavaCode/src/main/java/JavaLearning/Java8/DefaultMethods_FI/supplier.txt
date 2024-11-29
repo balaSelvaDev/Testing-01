@@ -1,0 +1,6 @@
+
+Reference link:
+	1). https://www.geeksforgeeks.org/supplier-interface-in-java-with-examples/
+	2). https://mkyong.com/java8/java-8-supplier-examples/
+	3). https://medium.com/@barbieri.santiago/supplier-interface-0f012c187250
+	4). 

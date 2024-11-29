@@ -1,0 +1,12 @@
+Master Java Collections Framework in 3 Hours 🔥🔥 | Full Course in Depth | For DSA | Java Tutorial 
+YT link: https://youtu.be/VE_AAUxTUCY?si=94blAYIcs5g6f_T0
+Date: Oct-03-2024
+ 
+1). ipo namma kitta rendu interface iruku(parent and child), child interface extends parent interface
+ah irunthaa parent properties and method child kuu vanthurum. ipo oru class child ah implements
+panni irunthaa parent and child method ku implementation pannanum
+2). In 1.7 version, laa irunthuu colletions laa (wrapper class) ah right hand side kuda vendiyathu ilaa
+EX: List<Integer> list = new ArrayList<>();
+3). 
+
+vidoe laa 50 minutes variakum pathukuren

@@ -1,0 +1,41 @@
+
+DATE: 04-11-2024
+STORY::
+1). ipo namma v2 ketta poram naa, ground and first kuu idea iruku but 3rd and 4th floor
+kuu idea ilai naa athu namma abstraction nuu sollalam.
+2). athuvae v2 ketta idea iruku but 4 floors ah epdi ketta porom nuu idea ilai naa
+athu interface.
+
+NOTE: 
+* hiding the implementation details
+[ ipo method laa ctrl+click panna abstract method kuu thaa pogum implementation 
+method kuu pogathu ] 
+1). oru abstract class laa 0 abstract methods irukalam but oru abstract method iruntha
+kandipaa athu abstract class ah thaa irukanum.
+2). best practice @override.
+3). abstract class kuu object create panna mudiyathuu.
+
+STORY::
+1). nama grand father 3 rule podraru 10, 12 and college complete(pass) panniruthaa land ah 
+own pannikelam nuu oru letter pottuttu death agirathu.
+2). yenga father 10, 12 pass but college in-complete(fail) so land ah own panna mudiyathu
+3). naan 10, 12 and college pass aguren so land ah own panniren(java laa land thaa object)
+[ method kuu implementation pannathaa oru abstract method 
+class kuu object create panna mudiyathu ]
+
+
+DEFINTION::
+
+** If a class is having, an unimplemented method, then the
+method SHOULD BE declared abstract.
+** If a class is having one abstract method then it SHOULD be declared Abstract
+** It may or may not have implementation methods
+** A class can be declared abstract even if doesn't have abstract methods.
+** Can we create object for abstract class?
+ --> N0000000000000.
+** If a child does not implement all the abstract methods of parent class, 
+then the child class must need to be declared abstract as well
+
+
+
+

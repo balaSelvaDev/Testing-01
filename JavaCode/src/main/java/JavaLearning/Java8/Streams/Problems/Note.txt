@@ -1,0 +1,8 @@
+sum() - Integer
+count() - long
+max() - OptionalInt
+max().orElse(0) - int
+min() - OptionalInt
+min().orElse(0) - int
+average() - OptionalDouble
+anyMatch - boolean

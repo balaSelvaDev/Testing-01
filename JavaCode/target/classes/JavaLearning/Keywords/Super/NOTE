@@ -1,0 +1,18 @@
+
+VIDEO:: https://youtu.be/Qb_NUn0TSAU?si=pz4J2Rcosdo-rUgP
+DATE:: nov-05-2024
+
+1). super key parent class iruku method ah access panna use agum 
+subclass laa irunthu(derived class)
+2). normal ah veaa base class method ah child class method inside laa access pannikelam(not need to create object) and
+same as variable
+
+two way to use super keyword
+1). override
+	*). multiple time namma super keyword oru method laa use pannikelam(need parent child relationship)
+	*). normal method laa kuda use super keyword use pannikelam(need parent child relationship)
+2). constructor
+	*). child class laa super keyword use pannalai naa, by-default ah no args constructor ah call pannikum(super()) - automatically 
+	*). only one time mattum thaa super keyword use panna mudiyum constructor laa(need parent child relationship)
+	*). parent class laa no args constructor yathuvum ilaa, child class laa 2 args constructor iruku, so error throw pannum.  
+	(parent class la no args constructor ilai naa error throw pannum).

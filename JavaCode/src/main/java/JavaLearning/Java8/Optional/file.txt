@@ -1,0 +1,20 @@
+DATE:: sep-24-2024
+Optional methods
+1). empty
+2). of(null check, if null present, it return nullpointerexception)
+3). ofNullable(combination of empty and of). 
+4). orElse(combination of if and else condition)
+5). orElseThrow(String) orElseThrow(supplier interface)
+6). ifPresent(String), ifPresent(consumer interface)
+7). map
+8). orElseGet()
+
+Streams method
+1). findAny()
+2). findFirst()
+
+Java 8 Streams | Optional Usage and Best Practices | JavaTechie
+YT - https://youtu.be/4BUKaazoYyg?si=IBHL4Ez7MIfoAG9l
+GITHUB - https://github.com/Java-Techie-jt/java8/tree/master/Optional
+OPTIONAL LINK - https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html
+
